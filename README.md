@@ -1,4 +1,4 @@
-# The-Rick-and-Morty
+# The Rick and Morty
 
 # Краткое описание:
 Приложение со списком персонажей, локаций и эпизодов, реализованное с помощью "The Rick and Morty" API.
